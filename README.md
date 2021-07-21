@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pawan-Kumar-Baldewa
-- 👀 I’m interested in web development
-- 🌱 I’m currently working on MERN 
-- 💞️ I’m looking to collaborate on more such projects
+- 👀 I’m interested in machine learning
+- 💞️ I’m looking to collaborate on more machine learning projects
 - 📫 Reach me out baldewapawankumar@gmail.com
 
 
